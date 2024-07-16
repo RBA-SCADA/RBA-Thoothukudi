@@ -1,0 +1,15 @@
+{
+ "cfg":"nodelist",
+ "prt":"modbus",
+ "showUnreached":1,
+ "interPollTime":"30s",
+ "postData":"udp:224.0.0.113:25826",
+ "nodes":[
+          {"a":"192.168.19.133:503:1",  "type":"Secure300",         "name":"B13_EM13"},
+          {"a":"192.168.19.134:503:1",  "type":"Secure300",         "name":"B14_EM14"},
+          {"a":"192.168.19.118:503:1",  "type":"MF790C",            "name":"B08_EM08"},
+          {"a":"192.168.19.131:503:1",  "type":"MF790C",            "name":"B11_EM11"},
+          {"a":"192.168.19.132:503:1",  "type":"MF790C",            "name":"B12_EM12"}		  
+         ] 
+}	
+	  

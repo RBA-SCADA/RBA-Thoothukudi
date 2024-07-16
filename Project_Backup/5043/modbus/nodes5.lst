@@ -1,0 +1,12 @@
+{ 
+ "cfg":"nodelist", 
+ "prt":"modbus",
+ "showUnreached":1,
+ "interPollTime":"15s",
+ "postData":"udp:224.0.0.113:25826", 
+ "persistencyMinSaveInterval":600,
+ "nodes":[
+          {"a":"1",   "type":"iGATE_INFO"}
+         ]
+}
+
